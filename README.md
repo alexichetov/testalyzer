@@ -14,8 +14,12 @@ Finger usage, by finger (middle thumb is for space).
 Row usage, by row.
 
 SFB - same finger bigrams, two keys on the same finger being pressed consecutively
+
 LSB - press on middle then far index of the same hand
+
 BetterFSB - same hand, press on top row and bottom row, and one of the presses is either the middle of ring finger
+
 SRB - same row bigram, same hand same row
+
 
 SFS/LSS/BetterSFS/SRS are the same as their B counterbars, except it is two key presses separated by one key press.
