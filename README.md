@@ -4,7 +4,9 @@ A rough attempt at a keyboard analyzer
 pre-requisites: a corpus file named corpus, that contains only ascii characters
 
 compile both `outngram.c` and `analyze.c` using gcc
+
 run `./outngram` on its own first to create an ngram file that analyze can read from
+
 then run `./analyze layouts/*` to get results  for all layouts in the folder
 
 layouts in the folder must be a 3x10 grid of ascii characters. There is no real error handling so if you did something wacky it'll respond with something wacky.
